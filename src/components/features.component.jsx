@@ -39,7 +39,7 @@ const Features = ({ features }) => {
                         className="absolute mt-[660px] hidden right-0 mr-[640px] lg:block"
                     />
                     {features.map(({ ...featureProps }, index) => {
-                        return <FeatureCard {...featureProps} />;
+                        return <FeatureCard {...featureProps} key={index} />;
                     })}
                 </div>
             </div>
