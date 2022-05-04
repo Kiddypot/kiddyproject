@@ -7,7 +7,7 @@ const NewsLetter = () => {
                 <h2 className="text-white text-3xl text-center font-bold mb-10">
                     BE THE FIRST TO KNOW WHEN WE LAUNCH
                 </h2>
-                <NewsletterForm />
+                <NewsletterForm variant="light" />
             </div>
         </div>
     );
