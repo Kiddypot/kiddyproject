@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/kiddyproject/static/css/main.8dac7079.css",
+    "main.js": "/kiddyproject/static/js/main.10ae874c.js",
+    "static/js/787.0f2ef930.chunk.js": "/kiddyproject/static/js/787.0f2ef930.chunk.js",
+    "static/media/img1.svg": "/kiddyproject/static/media/img1.860984438260dba1a9778212b922fc83.svg",
+    "static/media/img4.svg": "/kiddyproject/static/media/img4.e311b9facbcbfacbab152ce32e5671d0.svg",
+    "static/media/img3.svg": "/kiddyproject/static/media/img3.56d8380797d3053055dc53cfa4899cdb.svg",
+    "static/media/img2.svg": "/kiddyproject/static/media/img2.9602f407193de9bb3f4f038ac208cae0.svg",
+    "static/media/logo.svg": "/kiddyproject/static/media/logo.3ecfafe0480d12125d8197ee660b4317.svg",
+    "static/media/support.svg": "/kiddyproject/static/media/support.24cc6a1bbd4a72888a835921077d3b28.svg",
+    "static/media/debit-card.svg": "/kiddyproject/static/media/debit-card.9aaf2d811ddd7061cc21bc8bface7706.svg",
+    "static/media/savings.svg": "/kiddyproject/static/media/savings.92f13e58492d15d4af0d9201679db9cf.svg",
+    "static/media/notify-me-desktop.svg": "/kiddyproject/static/media/notify-me-desktop.0e6784acde5a2e4fc576.svg",
+    "static/media/footer-desktop.svg": "/kiddyproject/static/media/footer-desktop.07c64cb7acd6713bd4db.svg",
+    "static/media/footer-mobile.svg": "/kiddyproject/static/media/footer-mobile.929aa0e48b236f8fea00.svg",
+    "static/media/security.svg": "/kiddyproject/static/media/security.4d077ba90c9eb46378bc87fe69cbdf3b.svg",
+    "index.html": "/kiddyproject/index.html",
+    "static/media/notify-me-mobile.svg": "/kiddyproject/static/media/notify-me-mobile.5a35db5c1bfa711bd3a7.svg",
+    "main.8dac7079.css.map": "/kiddyproject/static/css/main.8dac7079.css.map",
+    "main.10ae874c.js.map": "/kiddyproject/static/js/main.10ae874c.js.map",
+    "787.0f2ef930.chunk.js.map": "/kiddyproject/static/js/787.0f2ef930.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dac7079.css",
+    "static/js/main.10ae874c.js"
+  ]
+}
