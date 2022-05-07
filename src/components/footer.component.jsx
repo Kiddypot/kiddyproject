@@ -1,4 +1,5 @@
 import { NewsletterForm } from "../components.import";
+import { linkedin, email, twitter, instagram } from "../images.import";
 
 const Footer = () => {
     return (
@@ -17,6 +18,21 @@ const Footer = () => {
                         Sign up for early access
                     </p>
                     <NewsletterForm />
+                </div>
+
+                <div class="mb-5 flex justify-center space-x-2">
+                    <a href="/" target="_blank" noreferrer>
+                        <img alt="email" src={email} class="w-8" />
+                    </a>
+                    <a href="/" target="_blank" noreferrer>
+                        <img alt="twitter" src={twitter} class="w-8" />
+                    </a>
+                    <a href="/" target="_blank" noreferrer>
+                        <img alt="linkedin" src={linkedin} class="w-8" />
+                    </a>
+                    <a href="/" target="_blank" noreferrer>
+                        <img alt="instagram" src={instagram} class="w-8" />
+                    </a>
                 </div>
 
                 <p className="text-white">

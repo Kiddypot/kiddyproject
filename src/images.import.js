@@ -21,6 +21,10 @@ import elipse10 from "./assets/Ellipse 27.png";
 import elipse11 from "./assets/Ellipse 28.png";
 import elipse12 from "./assets/Ellipse 29.png";
 import elipse13 from "./assets/Ellipse 30.png";
+import email from "./assets/email.png";
+import instagram from "./assets/instagram.png";
+import twitter from "./assets/twitter.png";
+import linkedin from "./assets/linkedin.png";
 
 export {
     debitCard,
@@ -46,4 +50,8 @@ export {
     elipse11,
     elipse12,
     elipse13,
+    email,
+    twitter,
+    instagram,
+    linkedin,
 };
