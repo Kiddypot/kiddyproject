@@ -17,7 +17,7 @@ const Footer = () => {
                     <p className="mb-6 text-white text-xl">
                         Sign up for early access
                     </p>
-                    <NewsletterForm />
+                    <NewsletterForm variant="light" />
                 </div>
 
                 <div class="mb-5 flex justify-center space-x-2">
