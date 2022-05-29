@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kiddyproject/static/css/main.3ae88967.css",
-    "main.js": "/kiddyproject/static/js/main.7d2ed949.js",
+    "main.js": "/kiddyproject/static/js/main.af585f26.js",
     "static/js/787.0f2ef930.chunk.js": "/kiddyproject/static/js/787.0f2ef930.chunk.js",
     "static/media/img1.svg": "/kiddyproject/static/media/img1.860984438260dba1a9778212b922fc83.svg",
     "static/media/img4.svg": "/kiddyproject/static/media/img4.e311b9facbcbfacbab152ce32e5671d0.svg",
@@ -18,11 +18,11 @@
     "index.html": "/kiddyproject/index.html",
     "static/media/notify-me-mobile.svg": "/kiddyproject/static/media/notify-me-mobile.5a35db5c1bfa711bd3a7.svg",
     "main.3ae88967.css.map": "/kiddyproject/static/css/main.3ae88967.css.map",
-    "main.7d2ed949.js.map": "/kiddyproject/static/js/main.7d2ed949.js.map",
+    "main.af585f26.js.map": "/kiddyproject/static/js/main.af585f26.js.map",
     "787.0f2ef930.chunk.js.map": "/kiddyproject/static/js/787.0f2ef930.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ae88967.css",
-    "static/js/main.7d2ed949.js"
+    "static/js/main.af585f26.js"
   ]
 }
