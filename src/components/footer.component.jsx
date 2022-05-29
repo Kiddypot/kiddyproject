@@ -21,16 +21,32 @@ const Footer = () => {
                 </div>
 
                 <div class="mb-5 flex justify-center space-x-2">
-                    <a href="/" target="_blank" noreferrer>
+                    <a
+                        href="mailto:hello@kiddypot.com"
+                        target="_blank"
+                        noreferrer
+                    >
                         <img alt="email" src={email} class="w-8" />
                     </a>
-                    <a href="/" target="_blank" noreferrer>
+                    <a
+                        href="https://twitter.com/kiddypot?s=21&t=5d4iXf5qBFo4HIfBwOJ9QQ"
+                        target="_blank"
+                        noreferrer
+                    >
                         <img alt="twitter" src={twitter} class="w-8" />
                     </a>
-                    <a href="/" target="_blank" noreferrer>
+                    <a
+                        href="https://www.linkedin.com/company/kiddypot/"
+                        target="_blank"
+                        noreferrer
+                    >
                         <img alt="linkedin" src={linkedin} class="w-8" />
                     </a>
-                    <a href="/" target="_blank" noreferrer>
+                    <a
+                        href="https://www.instagram.com/kiddypot/"
+                        target="_blank"
+                        noreferrer
+                    >
                         <img alt="instagram" src={instagram} class="w-8" />
                     </a>
                 </div>
